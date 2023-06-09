@@ -1,0 +1,7 @@
+openai
+llama-index
+langchain
+python-dotenv
+flask
+line-bot-sdk
+gradio
